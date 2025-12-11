@@ -4,3 +4,7 @@ pandas
 nltk
 wordcloud
 matplotlib
+plotly
+joblib
+seaborn
+streamlit
