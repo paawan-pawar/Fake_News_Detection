@@ -1,7 +1,7 @@
 📰 Fake News Detection System
 
 🌐 Live Deployment
-🔗 Access the Application: https://fake-news-detection-app.onrender.com
+🔗 Access the Application: https://fakenewsdetection-ayozrab6e5wu5m8u4ksgvy.streamlit.app/
 
 ⚠️ Note: The application may take 30-60 seconds to load initially due to Render's free tier spin-down policy.
 
@@ -22,7 +22,7 @@ A machine learning-based web application that detects fake news articles using N
 📥 File Upload: Support for CSV and text file uploads
 
 🏗️ Project Structure: 
-
+```
 fake-news-detector/
 │
 ├── app.py                    # Main Streamlit application
@@ -34,7 +34,7 @@ fake-news-detector/
 │   └── fake_news_sample.txt
 └── utils/                    # Utility functions
     └── text_processor.py
-
+```
 🚀 Quick Start
 Prerequisites-
 Python 3.8 or higher

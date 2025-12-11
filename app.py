@@ -74,7 +74,7 @@ def load_model():
         try:
             import joblib
             model = joblib.load('fake_news_svm_model.pkl')
-            st.sidebar.success("Model loaded successfully with joblib!")
+            
             return model
         except:
             # Fall back to pickle
